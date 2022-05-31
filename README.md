@@ -1,4 +1,4 @@
-#  💕 Hi 💕
+#  ♡ Hi ♡
 ### Check my blog: [_sashasmirnova_](https://www.instagram.com/_sashasmirnova_)
 ### My skills:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=HTML)
